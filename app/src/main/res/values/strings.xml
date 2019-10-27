@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DBTimetable</string>
+    <string name="group_choose_string">Выберите группу</string>
+    <string name="group_choosed_button">Далее</string>
+</resources>
